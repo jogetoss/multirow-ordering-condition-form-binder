@@ -1,11 +1,10 @@
-package org.joget.plugin;
+package org.joget.marketplace.form.MultirowOrderingConditionFormBinder;
 
 import java.util.ArrayList;
 import java.util.Collection;
 import org.osgi.framework.BundleActivator;
 import org.osgi.framework.BundleContext;
 import org.osgi.framework.ServiceRegistration;
-import org.joget.plugin.app.MultirowOrderingConditionFormBinder;
 
 public class Activator implements BundleActivator {
 

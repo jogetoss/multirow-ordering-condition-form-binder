@@ -1,4 +1,4 @@
-package org.joget.plugin.app;
+package org.joget.marketplace.form.MultirowOrderingConditionFormBinder;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -27,7 +27,7 @@ public class MultirowOrderingConditionFormBinder extends MultirowFormBinder{
 
     @Override
     public String getVersion() {
-        return "8.0.0";
+        return "8.0.1";
     }
 
     @Override
