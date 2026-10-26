@@ -2,7 +2,7 @@
 
 Multirow Form Binder with Condition and Ordering allows conditional, selective storing and loading of multi-row-enabled form element to store multi-row data in database table structured form.
 
-To setup and configure this plugin, please see the [documentation](https://kb.joget.org/jw/web/userview/jdocs/docs/DX8/multirow-form-binder-with-condition-and-ordering).
+To setup and configure this plugin, please see the [documentation](https://kb.joget.org/jw/web/userview/jdocs/docs/marketplace/multirow-form-binder-with-condition-and-ordering).
 
 # Getting Help
 
